@@ -1,0 +1,22 @@
+# Dépendances
+node_modules/
+
+# Secrets et identifiants WhatsApp (NE JAMAIS publier)
+.env
+.env.*
+!.env.example
+session/
+creds.json
+
+# Données générées par le bot
+database/
+tmp/
+temp/
+Images_Sauvegardees/
+
+# Logs et divers
+*.log
+npm-debug.log*
+.DS_Store
+.vscode/
+.idea/
