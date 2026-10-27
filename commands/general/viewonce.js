@@ -25,7 +25,7 @@ function hasViewOnce(m) {
 
 module.exports = {
   name: 'viewonce',
-  aliases: ['vv', 'bb', 'damn', 'woww' 'waww' 'ayy' '😍' '❤️' 'aww'],
+  aliases: ['vv', 'bb', 'damn', 'woww', 'waww', 'ayy', '😍', '❤️', 'aww'],
   category: 'general',
   description: "Révèle un message à vue unique → envoyé dans Vous + Telegram",
   usage: '/vv (répondre à un message vue unique)',
